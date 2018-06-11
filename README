@@ -1,0 +1,13 @@
+changelog
+	MODULES
+		event.GetTotalLineCount
+		event.SetFontColor
+		event.SetVisibleLineCount
+		net.GetLoginID
+
+	ADDED:
+		CHAT_TYPE_DICE_INFO
+
+	UPDATED:
+		Python
+		Granny3D

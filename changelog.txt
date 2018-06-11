@@ -1,0 +1,15 @@
+changelog
+	MODULES
+		chat.SetChatFilter
+		net.GetLoginID
+		system.SetDiceChatShow
+		system.IsDiceChatShow
+		wndMgr.StoreSlotCoolTime
+		wndMgr.RestoreSlotCoolTime
+		
+	ADDED:
+		CHAT_TYPE_DICE_INFO
+
+	UPDATED:
+		Python (2.7.6)
+		Granny3D (2.9)
